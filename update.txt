@@ -1,0 +1,1 @@
+UPDATE demo SET name='hamoda' WHERE id = 1
