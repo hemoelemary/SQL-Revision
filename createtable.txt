@@ -1,0 +1,5 @@
+CREATE table demo(col1 TYPE ATTRIBUTES,col2 TYPE ATTRIBURES)
+
+CREATE TABLE store(id INTEGER PRIMARY KEY,item_name varchar(30),price DECIMAL(7,2),notes VARCHAR(255),items_sold INTEGER DEFAULT 0)
+
+Decimal(5,2) 7 numbers 5 numbers 2 decimals

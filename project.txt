@@ -1,0 +1,5 @@
+CREATE TAble
+Insert 5 products
+select 3 products
+task screenshot
+

@@ -1,0 +1,3 @@
+truncate means clean
+start fresh
+TRUNCATE demo;
