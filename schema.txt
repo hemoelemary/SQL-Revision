@@ -1,0 +1,8 @@
+in relational DBs like : MariaDB,MySQL
+we have columns and rows
+
+in schema we have columns row tables
+
+table Users:
+ID Name UserName Profession
+0  hamo hemomemo Dev
