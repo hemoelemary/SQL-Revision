@@ -1,0 +1,5 @@
+SELECT * from demo LIMIT 2;
+select all from demo limit the results to be 2 rows;
+
+Mixing 
+SELECT * from demo WHERE ID>2 ORDER by name desc LIMIT 2 ;
