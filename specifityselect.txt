@@ -1,0 +1,3 @@
+SELECT * from demo where id=2;
+means select all from demo where id equals 2
+SELECT * from demo where name='test'

@@ -1,0 +1,13 @@
+SELECTING RANGE OF DATA
+SELECT * FROM demo WHERE ID>3;
+
+if i want to grab rows with id 1 3 5
+
+SELECT * FROM demo WHERE ID =1 OR ID=3 OR ID=5
+
+if i want to use and select this and this
+
+SELECT * from demo WHERE ID=1 AND name='test'
+match T and T if false existed no
+
+
