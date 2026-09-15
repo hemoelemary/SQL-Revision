@@ -1,0 +1,4 @@
+SELECT * FROM demo ORDER BY NAME DESC;
+means:
+select all from table demo order data in descending order by the name according to alphabetical order
+ASC for ascending

@@ -1,0 +1,3 @@
+SELECT COlumn_Name FROM Table_name;
+SELECT * FROM demo ; select all
+SELECT ID,NAME FROM demo;
